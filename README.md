@@ -53,7 +53,7 @@ Key properties (from our experiments on 59,033 samples):
 ### Installation
 
 # Clone the repository
-git clone https://github.com/zyg0326/KGDW.git
+git clone https://github.com/zyg0326/kgdw-watermark.git
 cd kgdw
 
 # (Optional but recommended) Create a virtual environment
